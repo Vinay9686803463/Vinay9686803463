@@ -104,7 +104,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
 <img src="./assets/github-icon.svg" width="72" height="72" alt="GitHub">
 </a>
