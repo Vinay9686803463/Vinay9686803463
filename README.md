@@ -44,12 +44,12 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ### 🔧 Tools
 
 <p>
-<img src="https://cdn.simpleicons.org/git/F05032" width="55" height="55" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="64" height="64" />
 <a href="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/github-icon.svg" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/github-icon.svg" width="55" height="55" alt="GitHub" />
+  <img src="./assets/github-icon.svg" width="64" height="64" alt="GitHub" />
 </a>
 <a href="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/vscode-icon.svg" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/vscode-icon.svg" width="55" height="55" alt="Visual Studio Code" />
+  <img src="./assets/vscode-icon.svg" width="64" height="64" alt="Visual Studio Code" />
 </a>
 </p>
 
@@ -106,13 +106,13 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 <p align="left">
 <a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
-<img src="./assets/github-icon.svg" width="55" height="55" alt="GitHub">
+<img src="./assets/github-icon.svg" width="64" height="64" alt="GitHub">
 </a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vinayssollapure@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src="./assets/gmail-icon.svg" width="55" height="55" alt="Email">
+<img src="./assets/gmail-icon.svg" width="64" height="64" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/" target="_blank" rel="noopener noreferrer">
-<img src="./assets/linkedin-icon.svg" width="55" height="55" alt="LinkedIn">
+<img src="./assets/linkedin-icon.svg" width="64" height="64" alt="LinkedIn">
 </a>
 </p>
 
