@@ -45,10 +45,10 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 <p>
 <img src="https://cdn.simpleicons.org/git/F05032" width="65" height="65" />
-<a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
+<a href="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/github-icon.svg" target="_blank" rel="noopener noreferrer">
   <img src="./assets/github-icon.svg" width="65" height="65" alt="GitHub" />
 </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/vscode-icon.svg" target="_blank" rel="noopener noreferrer">
   <img src="./assets/vscode-icon.svg" width="65" height="65" alt="Visual Studio Code" />
 </a>
 </p>
