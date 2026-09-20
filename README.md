@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vinay
 
-> 🎓 Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
+> 🎓 Engineering Student | 💻 Full Stack Web Developer | 🚀 Tech Enthusiast
+
 
 I enjoy building projects, learning new technologies, and exploring software development.
 
@@ -11,8 +12,8 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ### 💻 Programming
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="65" height="65" />
 </p>
 
 **Skills**
@@ -25,10 +26,10 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ### 🌐 Web Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
 </p>
 
 **Skills**
@@ -43,9 +44,9 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ### 🔧 Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="65" height="65" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="Visual Studio Code" />
 </p>
 
 **Skills**
@@ -59,8 +60,8 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ## 🚀 Currently Exploring C++ & JavaScript
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65" />
 </p>
 
 - C++ Programming
@@ -88,27 +89,50 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ## 📊 GitHub
 
-<table align="center">
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Vinay9686803463&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<table>
 <tr>
+
 <td align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vinay9686803463&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-  width="450"
-/>
+<a href="https://github.com/Vinay9686803463">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub">
+</a>
+
+<br>
 
 </td>
 
 <td align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay9686803463&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-  width="350"
-/>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vinayssollapure@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email">
+</a>
+
+<br>
 
 </td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn">
+</a>
+
+<br>
+
+</td>
+
 </tr>
 </table>
 
