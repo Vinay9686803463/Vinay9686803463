@@ -48,7 +48,9 @@ I enjoy building projects, learning new technologies, and exploring software dev
 <a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
   <img src="./assets/github-icon.svg" width="65" height="65" alt="GitHub" />
 </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="Visual Studio Code" />
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="./assets/vscode-icon.svg" width="65" height="65" alt="Visual Studio Code" />
+</a>
 </p>
 
 **Skills**
@@ -102,35 +104,17 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ## 📫 Connect With Me
 
-<table border="1" cellspacing="0" cellpadding="8">
-<tr>
-
-<td align="center" width="96" height="96">
-
+<p align="center">
 <a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
 <img src="./assets/github-icon.svg" width="72" height="72" alt="GitHub">
 </a>
-
-</td>
-
-<td align="center" width="96" height="96">
-
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vinayssollapure@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="./assets/gmail-icon.svg" width="72" height="72" alt="Email">
 </a>
-
-</td>
-
-<td align="center" width="96" height="96">
-
 <a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/" target="_blank" rel="noopener noreferrer">
 <img src="./assets/linkedin-icon.svg" width="72" height="72" alt="LinkedIn">
 </a>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
