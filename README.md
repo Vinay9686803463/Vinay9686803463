@@ -151,7 +151,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
   https://github.com/Vinay9686803463
 
 * 📧 **Email:**
-  [vinayssollapure@gmail.com](mailto:vinayssollapure@gmail.com)
+  https://mail.google.com/mail/?view=cm&fs=1&to=vinayssollapure@gmail.com
 ---
 
 <p align="center">
