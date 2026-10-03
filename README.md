@@ -12,8 +12,8 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ### 💻 Programming
 
 <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="65" height="65" />
 </p>
 
 **Skills**
@@ -27,9 +27,9 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
 </p>
 
 **Skills**
@@ -106,19 +106,10 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 🔗 **Repository:** [https://github.com/Vinay9686803463/smart-attendance-system](https://github.com/Vinay9686803463/smart-attendance-system)
 
-🌐 **Live Demo:** Add your deployed Smart Attendance URL here
+🌐 **Live Demo:** https://smart-attendance-system-a2ib.onrender.com/login
 
----
+🌐 **Live Demo:** https://smart-attendance-system-blue-seven.vercel.app/login
 
-### 🌐 Web Development Projects
-
-- **Web Development Project**  
-  A responsive website built using HTML, CSS and JavaScript.
-
-
-> 🚀 More projects will be added as I continue learning and building.
-
----
 
 ## 📊 GitHub
 
@@ -130,19 +121,20 @@ I enjoy building projects, learning new technologies, and exploring software dev
 </p>
 
 ---
-
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
-<img src="./assets/github-icon.svg" width="55" height="55" alt="GitHub">
-</a>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=vinayssollapure@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src="./assets/gmail-icon.svg" width="55" height="55" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/" target="_blank" rel="noopener noreferrer">
-<img src="./assets/linkedin-icon.svg" width="55" height="55" alt="LinkedIn">
-</a>
+  <a href="https://github.com/Vinay9686803463">
+    <img src="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/github-icon.svg" width="55" height="55" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vinayssollapure@gmail.com">
+    <img src="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/gmail-icon.svg" width="55" height="55" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/">
+    <img src="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/linkedin-icon.svg" width="55" height="55" alt="LinkedIn">
+  </a>
 </p>
 
 ---
