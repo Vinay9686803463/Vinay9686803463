@@ -81,6 +81,35 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ## 🚀 Featured Projects
 
+### 📊 Smart Attendance System
+
+> A web-based attendance management platform for managing students, faculty, attendance records, authentication, and cloud-based data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Features**
+
+- 👨‍🎓 Student management
+- 👨‍🏫 Faculty management
+- 📝 Attendance management
+- 📊 Attendance history
+- 🔐 User authentication
+- 🔑 Password reset / OTP
+- ☁️ Cloud-based PostgreSQL database
+- 🗄️ Supabase database integration
+- 🌐 Web-based application
+- 🚀 Cloud deployment
+- 🔄 GitHub-based development workflow
+
+🔗 **Repository:** [https://github.com/Vinay9686803463/smart-attendance-system](https://github.com/Vinay9686803463/smart-attendance-system)
+
+🌐 **Live Demo:** Add your deployed Smart Attendance URL here
+
+---
+
 ### 🌐 Web Development Projects
 
 - **Web Development Project**  
