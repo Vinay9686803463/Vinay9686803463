@@ -44,13 +44,17 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ### 🔧 Tools
 
 <p>
-<img src="https://cdn.simpleicons.org/git/F05032" width="55" height="55" />
-<a href="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/github-icon.svg" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/github-icon.svg" width="55" height="55" alt="GitHub" />
-</a>
-<a href="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/vscode-icon.svg" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/vscode-icon.svg" width="55" height="55" alt="Visual Studio Code" />
-</a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="55" alt="Git" />
+  </a>
+&nbsp;&nbsp;
+  <a href="https://github.com/Vinay9686803463" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/github/white" width="55" height="55" alt="GitHub" />
+  </a>
+&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/vscode-icon.svg" height="55" alt="Visual Studio Code" />
+  </a>
 </p>
 
 **Skills**
@@ -120,27 +124,42 @@ I enjoy building projects, learning new technologies, and exploring software dev
   />
 </p>
 
----
-## 📫 Connect With Me
+
+
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Vinay9686803463">
-    <img src="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/github-icon.svg" width="55" height="55" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vinayssollapure@gmail.com">
-    <img src="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/gmail-icon.svg" width="55" height="55" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/">
-    <img src="https://raw.githubusercontent.com/Vinay9686803463/Vinay9686803463/main/assets/linkedin-icon.svg" width="55" height="55" alt="LinkedIn">
-  </a>
+
+<a href="https://github.com/Vinay9686803463">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vinay-sollapure-94474b2a4/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinayssollapure@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="50"/>
+</a>
+
 </p>
 
+* 💼 **LinkedIn:**
+  https://www.linkedin.com/in/vinay-sollapure-94474b2a4/
+
+* 🐙 **GitHub:**
+  https://github.com/Vinay9686803463
+
+* 📧 **Email:**
+  [vinayssollapure@gmail.com](mailto:vinayssollapure@gmail.com)
 ---
 
-<p align="left">
+<p align="center">
+
+### 🚀 Build. Learn. Experiment. Ship.
+
 ⭐ Thanks for visiting my profile!
+
 </p>
 
 <p align="left">
