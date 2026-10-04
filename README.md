@@ -110,8 +110,6 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 🔗 **Repository:** [https://github.com/Vinay9686803463/smart-attendance-system](https://github.com/Vinay9686803463/smart-attendance-system)
 
-🌐 **Live Demo:** https://smart-attendance-system-a2ib.onrender.com/login
-
 🌐 **Live Demo:** https://smart-attendance-system-blue-seven.vercel.app/login
 
 
