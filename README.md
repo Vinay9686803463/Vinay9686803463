@@ -112,6 +112,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 🌐 **Live Demo:** https://smart-attendance-system-blue-seven.vercel.app/login
 
+---
 
 ## 📊 GitHub
 
