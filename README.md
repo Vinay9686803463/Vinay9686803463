@@ -113,6 +113,35 @@ I enjoy building projects, learning new technologies, and exploring software dev
 🌐 **Live Demo:** https://smart-attendance-system-blue-seven.vercel.app/login
 
 ---
+# 🎓 Student Support AI
+
+An AI-powered academic support platform for VTU Computer Science students, providing subject-wise study materials, important questions, personal notes, curated learning resources, and an interactive study-assistant chat.
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Features**
+
+- 🎓 VTU CSE academic support
+- 🤖 Offline AI study-assistant chat
+- 📚 Semester-wise subjects and study materials
+- ❓ Important questions with search and filters
+- 📝 Personal notes management
+- 🔗 Curated VTU and NPTEL learning resources
+- 🔐 User registration, login, and password reset
+- 📊 Dashboard with academic activity counts
+- ⚙️ Profile and user preference settings
+- 🗄️ SQLite and PostgreSQL database support
+- 🌐 Web-based application
+- 🔄 GitHub-based development workflow
+
+🔗 **Repository:** [https://github.com/Vinay9686803463/student-support-ai](https://github.com/Vinay9686803463/student-support-ai)
+
+🌐 **Live Demo:** [Open Student Support AI](PASTE_YOUR_LIVE_DEMO_URL_HERE)
+
+---
 
 ## 📊 GitHub
 
