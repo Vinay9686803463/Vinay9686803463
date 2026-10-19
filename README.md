@@ -117,6 +117,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
 🌐 **Live Demo:** [Open Smart Attendance System](https://smart-attendance-system-blue-seven.vercel.app/login)
 
 ---
+
 ### 🎓 Student Support AI
 
 > An AI-powered academic support platform for VTU Computer Science students, providing AI-assisted study help, semester-wise learning materials, important questions, personal notes, and curated educational resources.
@@ -127,7 +128,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Features**
@@ -161,7 +162,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
   />
 </p>
 
-
+---
 
 # 📫 Connect With Me
 
@@ -189,6 +190,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 * 📧 **Email:**
   https://mail.google.com/mail/?view=cm&fs=1&to=vinayssollapure@gmail.com
+  
 ---
 
 <p align="center">
