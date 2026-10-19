@@ -146,8 +146,8 @@ I enjoy building projects, learning new technologies, and exploring software dev
 - 🗄️ SQLite and PostgreSQL database support
 - ☁️ Cloud deployment support
 - ⚡ AI response handling and fallback logic
-
-🔗 **Repository:** [Student Support AI on GitHub](https://github.com/Vinay9686803463/student-support-ai)
+  
+🔗 **Repository:** [https://github.com/Vinay9686803463/student-support-ai](https://github.com/Vinay9686803463/student-support-ai)
 
 🌐 **Live Demo:** [Open Student Support AI](https://student-support-vtu.vercel.app/login)
 
