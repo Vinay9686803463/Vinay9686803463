@@ -91,6 +91,11 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -110,36 +115,41 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 🔗 **Repository:** [https://github.com/Vinay9686803463/smart-attendance-system](https://github.com/Vinay9686803463/smart-attendance-system)
 
-🌐 **Live Demo:** https://smart-attendance-system-blue-seven.vercel.app/login
+🌐 **Live Demo:** [Open Smart Attendance System](https://smart-attendance-system-blue-seven.vercel.app/login)
 
 ---
-# 🎓 Student Support AI
+### 🎓 Student Support AI
 
-An AI-powered academic support platform for VTU Computer Science students, providing subject-wise study materials, important questions, personal notes, curated learning resources, and an interactive study-assistant chat.
+> An AI-powered academic support platform for VTU Computer Science students, providing AI-assisted study help, semester-wise learning materials, important questions, personal notes, and curated educational resources.
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Features**
 
-- 🎓 VTU CSE academic support
-- 🤖 Offline AI study-assistant chat
-- 📚 Semester-wise subjects and study materials
-- ❓ Important questions with search and filters
-- 📝 Personal notes management
-- 🔗 Curated VTU and NPTEL learning resources
-- 🔐 User registration, login, and password reset
-- 📊 Dashboard with academic activity counts
-- ⚙️ Profile and user preference settings
+- 🤖 AI-powered academic study assistant
+- 📚 Semester-wise VTU subject materials
+- 📝 Important questions for exam preparation
+- 📒 Personal study notes
+- 🔍 Subject-based resource discovery and retrieval
+- 🔗 VTU and NPTEL learning resources
+- 🔐 User registration and login
+- 🔑 Password-reset functionality
+- 📊 Dashboard with academic resource summaries
+- 👤 User profile and preferences
 - 🗄️ SQLite and PostgreSQL database support
-- 🌐 Web-based application
-- 🔄 GitHub-based development workflow
+- ☁️ Cloud deployment support
+- ⚡ AI response handling and fallback logic
 
-🔗 **Repository:** [https://github.com/Vinay9686803463/student-support-ai](https://github.com/Vinay9686803463/student-support-ai)
+🔗 **Repository:** [Student Support AI on GitHub](https://github.com/Vinay9686803463/student-support-ai)
 
-🌐 **Live Demo:** [Open Student Support AI](PASTE_YOUR_LIVE_DEMO_URL_HERE)
+🌐 **Live Demo:** [Open Student Support AI](https://student-support-vtu.vercel.app/login)
 
 ---
 
