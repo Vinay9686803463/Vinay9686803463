@@ -159,7 +159,7 @@ I enjoy building projects, learning new technologies, and exploring software dev
   <img
     src="https://streak-stats.demolab.com?user=Vinay9686803463&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
-    width=50%
+    width=80%
   />
 </p>
 
