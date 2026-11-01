@@ -153,6 +153,34 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ---
 
+### 💼 Personal Portfolio Website
+
+> A modern, responsive personal portfolio website designed to showcase my profile, technical skills, projects, education, experience, and contact information. It provides an interactive platform for presenting my development journey and connecting with recruiters and collaborators.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Lucide React](https://img.shields.io/badge/Lucide_Icons-F56565?style=for-the-badge&logo=lucide&logoColor=white)
+
+**Features**
+
+- 👨‍💻 Personal introduction and profile section
+- 🎯 About Me section
+- 🛠️ Technical skills showcase
+- 🚀 Projects portfolio with project details
+- 🎓 Education and experience sections
+- 📩 Contact information and social media links
+- 🤖 AI assistant chatbot integration
+- 🖼️ Profile photo upload, change, view, and remove options
+- 📱 Responsive design for desktop and mobile
+- ✨ Smooth animations and interactive UI
+- 🎨 Modern user interface with Tailwind CSS
+
+🔗 **Repository:** [https://github.com/Vinay9686803463/Personal-Portfolio](https://github.com/Vinay9686803463/Personal-Portfolio)
+
+🌐 **Live Demo:** [Visit My Portfolio](https://personal-portfolio-sigma-swart-38.vercel.app/)
+
 ## 📊 GitHub
 
 <p align="center">
