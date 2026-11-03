@@ -181,14 +181,16 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 🌐 **Live Demo:** [Visit My Portfolio](https://personal-portfolio-sigma-swart-38.vercel.app/)
 
+---
+
 ## 📊 GitHub
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Vinay9686803463&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Vinay9686803463&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
-</p> 
+</p>
 
 ---
 
