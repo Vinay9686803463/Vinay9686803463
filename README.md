@@ -194,6 +194,8 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ---
 
+![Vinay9686803463's GitHub farm](https://gitfarm-nu.vercel.app/api/farm?user=Vinay9686803463&crop=sunflower&season=summer&time=day)
+
 # 📫 Connect With Me
 
 <p align="left">
