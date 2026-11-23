@@ -183,6 +183,42 @@ I enjoy building projects, learning new technologies, and exploring software dev
 
 ---
 
+# 🚀 QueueLess
+
+> A smart digital queue and appointment management platform that helps businesses manage customer appointments, waiting lists, and real-time queue activity while allowing customers to book appointments and track their queue status online.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+## ✨ Features
+
+- 🏢 Business management and business selection
+- 📅 Online customer appointment booking
+- 🎟️ Digital queue and token management
+- ⏳ Real-time waiting list management
+- 📊 Admin dashboard with queue overview
+- 👥 Customer directory with appointment history
+- 🔍 Search customers by name, email, phone number, or appointment ID
+- 📆 Appointment scheduling and management
+- 🔔 Real-time queue activity monitoring
+- 🛠️ Business service management
+- 👤 Customer registration and login
+- 🔐 Secure authentication and role-based access
+- 📱 Separate customer and business admin portals
+- ☁️ Cloud deployment and persistent database support
+
+🔗 **Repository:** [https://github.com/Vinay9686803463/QueueLess](https://github.com/Vinay9686803463/QueueLess)
+
+🌐 **Live Demo:** [Open QueueLess](https://queueless-alpha-six.vercel.app/)
+
+---
+
 ## 📊 GitHub
 
 <p align="center">
